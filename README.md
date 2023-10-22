@@ -1,8 +1,5 @@
 # ¡Bienvenido a mi perfil de GitHub! 👋
 
-## 1. Nombre de usuario:
-   Marion Bustamante
-
 ## 2. Breve descripción sobre ti y tus intereses:
    ¡Hola! Soy Marion Bustamante, un apasionado desarrollador de software con experiencia en el desarrollo web y la creación de aplicaciones interactivas. Me encanta el desafío de resolver problemas complejos y crear soluciones eficientes y elegantes. Mi pasión por la programación se combina con un fuerte interés en la inteligencia artificial y la ciencia de datos. Disfruto explorando nuevas tecnologías y aprendiendo constantemente para mejorar mis habilidades y conocimientos en el campo de la tecnología de la información.
 
