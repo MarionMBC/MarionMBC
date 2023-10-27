@@ -16,6 +16,6 @@
    ¡Puedes contactarme a través de las siguientes plataformas!:
    - Email: melchisedec.bustamante@gmail.com
    - LinkedIn: https://www.linkedin.com/in/melchisedec-bustamante/
-   - Portafolio: www.marionmbc.mbc
+   - Portafolio: www.marionmbc.me
 
 ¡No dudes en echar un vistazo a mis repositorios y proyectos! Espero que encuentres algo interesante. ¡Gracias por visitar mi perfil!
