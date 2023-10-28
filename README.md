@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Marion Bustamante, un apasionado desarrollador de software con experiencia en el desarrollo web y la creación de aplicaciones interactivas. Me encanta el desafío de resolver problemas complejos y crear soluciones eficientes y elegantes. Mi pasión por la programación se combina con un fuerte interés en las soluciones de la vida. Disfruto explorando nuevas tecnologías y aprendiendo constantemente para mejorar mis habilidades y conocimientos en el campo de la tecnología de la información.
 
-   Estoy actualmente trabajando e interesado/a en:
+   Estoy actualmente trabajando e interesado en:
    - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
    - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
    - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
