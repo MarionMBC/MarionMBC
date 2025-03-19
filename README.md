@@ -1,10 +1,9 @@
 # ¡Hola, soy Marion Bustamante! 👋
 
-Soy un **desarrollador full stack** y **QA** con experiencia en el desarrollo de aplicaciones web y móviles, integraciones backend, pruebas de calidad y bases de datos.  
-Me apasiona construir soluciones tecnológicas escalables, limpias y orientadas a resultados, combinando **desarrollo ágil**, **automatización de procesos** y **buenas prácticas**.  
+Soy **Ingeniero en Sistemas**, **Desarrollador FullStack** y **QA**, con experiencia en el desarrollo de aplicaciones web y móviles, pruebas de calidad, automatización y bases de datos.  
 
-Me considero una persona analítica, detallista y enfocada en la mejora continua, tanto en código como en procesos de calidad.  
-Disfruto colaborar en proyectos donde puedo aplicar mi conocimiento en **programación**, **testing**, **control de versiones**, y **despliegue en la nube**, además de aportar valor al equipo y aprender constantemente.
+Me apasiona construir soluciones tecnológicas escalables, limpias y orientadas a resultados, combinando **arquitectura modular**, **buenas prácticas**, y una fuerte orientación a la calidad.  
+Además, tengo experiencia trabajando con equipos multidisciplinarios, colaborando en proyectos de alto impacto, y utilizando herramientas cloud y de gestión ágil.
 
 ---
 
@@ -31,33 +30,33 @@ Disfruto colaborar en proyectos donde puedo aplicar mi conocimiento en **program
 
 ## 💼 Experiencia profesional y tecnologías:
 
-| Área                     | Experiencia destacada                                                                 |
-|--------------------------|---------------------------------------------------------------------------------------|
-| **Frontend (React)**     | Desarrollo de aplicaciones SPA, componentes reutilizables, manejo de hooks y optimización de rendimiento. |
-| **State Management**     | Uso de Redux Toolkit con RTK Query para integraciones escalables y manejo global de estado. |
-| **Backend (Node.js / NestJS)** | Creación de APIs REST, microservicios, manejo de autenticación y validación avanzada de datos. |
-| **Bases de datos (PostgreSQL / MongoDB / SQL)** | Diseño de esquemas, creación de relaciones, consultas complejas y procedimientos almacenados. |
-| **QA y Testing**         | Diseño y ejecución de pruebas manuales y automatizadas, validación de endpoints con Postman, pruebas de UI y control de calidad en proyectos de alto impacto. |
-| **Firebase**             | Integración con Auth, Firestore, Cloud Functions y Hosting. |
-| **Mobile (Flutter)**     | Creación de aplicaciones cross-platform, UI modular, consumo de APIs y manejo de estado. |
-| **DevOps / Cloud (Azure & Docker)** | Configuración de entornos, contenedores Docker, despliegues automáticos y monitoreo. |
-| **Git / GitHub / Bitbucket** | Control de versiones, Pull Requests, revisión de código y colaboración con equipos distribuidos. |
+| Área                         | Experiencia destacada                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------|
+| **Frontend (React)**         | Desarrollo de aplicaciones SPA, componentes reutilizables, hooks personalizados y optimización. |
+| **Redux Toolkit & RTK Query**| Gestión global de estado, integración eficiente con APIs y manejo avanzado de datos.   |
+| **Backend (Node.js / NestJS)**| Creación de APIs RESTful, microservicios, manejo de autenticación y seguridad robusta. |
+| **Bases de datos (PostgreSQL, SQL, MongoDB)** | Diseño de esquemas, consultas complejas, relaciones avanzadas y procedimientos almacenados. |
+| **QA y Testing**             | Diseño y ejecución de pruebas manuales y automatizadas, validación de endpoints, pruebas de UI y aseguramiento de calidad. |
+| **Firebase**                 | Integración de Auth, Firestore, Cloud Functions y hosting de proyectos.               |
+| **Flutter**                  | Desarrollo de aplicaciones móviles multiplataforma, UI responsiva y consumo de APIs.  |
+| **Docker y Azure DevOps**    | Configuración de contenedores, pipelines CI/CD, despliegue automatizado y monitoreo.  |
+| **Git, GitHub y Bitbucket**  | Control de versiones, gestión de ramas, PRs y trabajo colaborativo.                  |
 
 ---
 
 ## 🛠️ Herramientas y plataformas utilizadas:
 
-| Herramienta/Plataforma   | Uso Profesional                                                                 |
+| Herramienta/Plataforma   | Uso profesional                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|
-| **Postman**              | Testeo de APIs REST, automatización de colecciones y documentación.             |
-| **Jira**                 | Gestión de tareas ágiles, seguimiento de sprints y tableros kanban.             |
-| **Bitbucket**            | Repositorios privados, manejo de ramas y pipelines CI/CD.                       |
-| **Azure DevOps**         | Despliegues automatizados, administración de recursos y monitoreo de releases.  |
-| **Trello**               | Organización de proyectos y tareas personales.                                   |
-| **Figma**                | Colaboración en diseño de UI y prototipado interactivo.                         |
-| **Slack**                | Comunicación de equipo y alertas automatizadas en despliegues.                  |
-| **Vercel & Render**      | Despliegue de proyectos frontend y backend.                                      |
-| **Google Cloud Platform**| Uso de Firestore, Cloud Functions y servicios de monitoreo.                     |
+| **Postman**              | Testeo y documentación de APIs REST.                                            |
+| **Jira**                 | Gestión ágil de proyectos, seguimiento de tareas y organización de sprints.     |
+| **Bitbucket**            | Repositorios privados, manejo de ramas y automatización de despliegues.         |
+| **Azure DevOps**         | Deploys automatizados, administración de entornos cloud y seguimiento de builds.|
+| **Trello**               | Organización de proyectos personales y flujos de trabajo.                       |
+| **Figma**                | Diseño UI colaborativo y prototipado interactivo.                               |
+| **Slack**                | Comunicación interna y alertas automáticas de procesos y despliegues.           |
+| **Vercel & Render**      | Deploy y hosting de aplicaciones frontend y backend.                            |
+| **Google Cloud Platform**| Uso de Firestore, Cloud Functions y monitorización.                             |
 
 ---
 
@@ -90,5 +89,5 @@ Disfruto colaborar en proyectos donde puedo aplicar mi conocimiento en **program
 
 ---
 
-> ⚡ *Gracias por visitar mi perfil. Siempre abierto a nuevos desafíos, oportunidades de colaboración y crecimiento profesional.*
+> ⚡ *Gracias por visitar mi perfil. Siempre abierto a colaborar, crecer en equipo y asumir nuevos desafíos tecnológicos.*
 
