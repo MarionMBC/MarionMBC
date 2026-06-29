@@ -1,15 +1,16 @@
-# ¡Hola, soy Marion Bustamante! 👋
+# Hi, I'm Marion Bustamante! 👋
 
-Soy **Ingeniero en Sistemas**, **Desarrollador FullStack** y **QA**, con experiencia en el desarrollo de aplicaciones web y móviles, pruebas de calidad, automatización y bases de datos.  
+I am a **Systems Engineer**, **FullStack Developer**, and **QA professional**, with experience in web and mobile application development, quality assurance testing, automation, and databases.
 
-Me apasiona construir soluciones tecnológicas escalables, limpias y orientadas a resultados, combinando **arquitectura modular**, **buenas prácticas**, y una fuerte orientación a la calidad.  
-Además, tengo experiencia trabajando con equipos multidisciplinarios, colaborando en proyectos de alto impacto, y utilizando herramientas cloud y de gestión ágil.
+I am passionate about building scalable, clean, and results-oriented technology solutions by combining **modular architecture**, **best practices**, and a strong focus on quality.
+I also have experience working with multidisciplinary teams, collaborating on high-impact projects, and using cloud and agile management tools.
 
 ---
 
-## 🚀 Tecnologías principales:
+## 🚀 Main Technologies:
+
 <div align="center">
-  
+
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
@@ -28,66 +29,68 @@ Además, tengo experiencia trabajando con equipos multidisciplinarios, colaboran
 
 ---
 
-## 💼 Experiencia profesional y tecnologías:
+## 💼 Professional Experience and Technologies:
 
-| Área                         | Experiencia destacada                                                                 |
-|------------------------------|---------------------------------------------------------------------------------------|
-| **Frontend (React)**         | Desarrollo de aplicaciones SPA, componentes reutilizables, hooks personalizados y optimización. |
-| **Redux Toolkit & RTK Query**| Gestión global de estado, integración eficiente con APIs y manejo avanzado de datos.   |
-| **Backend (Node.js / NestJS)**| Creación de APIs RESTful, microservicios, manejo de autenticación y seguridad robusta. |
-| **Bases de datos (PostgreSQL, SQL, MongoDB)** | Diseño de esquemas, consultas complejas, relaciones avanzadas y procedimientos almacenados. |
-| **QA y Testing**             | Diseño y ejecución de pruebas manuales y automatizadas, validación de endpoints, pruebas de UI y aseguramiento de calidad. |
-| **Firebase**                 | Integración de Auth, Firestore, Cloud Functions y hosting de proyectos.               |
-| **Flutter**                  | Desarrollo de aplicaciones móviles multiplataforma, UI responsiva y consumo de APIs.  |
-| **Docker y Azure DevOps**    | Configuración de contenedores, pipelines CI/CD, despliegue automatizado y monitoreo.  |
-| **Git, GitHub y Bitbucket**  | Control de versiones, gestión de ramas, PRs y trabajo colaborativo.                  |
-
----
-
-## 🛠️ Herramientas y plataformas utilizadas:
-
-| Herramienta/Plataforma   | Uso profesional                                                                 |
-|--------------------------|---------------------------------------------------------------------------------|
-| **Postman**              | Testeo y documentación de APIs REST.                                            |
-| **Jira**                 | Gestión ágil de proyectos, seguimiento de tareas y organización de sprints.     |
-| **Bitbucket**            | Repositorios privados, manejo de ramas y automatización de despliegues.         |
-| **Azure DevOps**         | Deploys automatizados, administración de entornos cloud y seguimiento de builds.|
-| **Trello**               | Organización de proyectos personales y flujos de trabajo.                       |
-| **Figma**                | Diseño UI colaborativo y prototipado interactivo.                               |
-| **Slack**                | Comunicación interna y alertas automáticas de procesos y despliegues.           |
-| **Vercel & Render**      | Deploy y hosting de aplicaciones frontend y backend.                            |
-| **Google Cloud Platform**| Uso de Firestore, Cloud Functions y monitorización.                             |
+| Area                                     | Key Experience                                                                                              |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Frontend (React)**                     | Development of SPA applications, reusable components, custom hooks, and optimization.                       |
+| **Redux Toolkit & RTK Query**            | Global state management, efficient API integration, and advanced data handling.                             |
+| **Backend (Node.js / NestJS)**           | Creation of RESTful APIs, microservices, authentication handling, and robust security.                      |
+| **Databases (PostgreSQL, SQL, MongoDB)** | Schema design, complex queries, advanced relationships, and stored procedures.                              |
+| **QA and Testing**                       | Design and execution of manual and automated tests, endpoint validation, UI testing, and quality assurance. |
+| **Firebase**                             | Integration of Auth, Firestore, Cloud Functions, and project hosting.                                       |
+| **Flutter**                              | Development of cross-platform mobile applications, responsive UI, and API consumption.                      |
+| **Docker and Azure DevOps**              | Container configuration, CI/CD pipelines, automated deployments, and monitoring.                            |
+| **Git, GitHub, and Bitbucket**           | Version control, branch management, pull requests, and collaborative work.                                  |
 
 ---
 
-## 📊 Mis estadísticas en GitHub:
+## 🛠️ Tools and Platforms Used:
+
+| Tool/Platform             | Professional Use                                                             |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| **Postman**               | REST API testing and documentation.                                          |
+| **Jira**                  | Agile project management, task tracking, and sprint organization.            |
+| **Bitbucket**             | Private repositories, branch management, and deployment automation.          |
+| **Azure DevOps**          | Automated deployments, cloud environment administration, and build tracking. |
+| **Trello**                | Organization of personal projects and workflows.                             |
+| **Figma**                 | Collaborative UI design and interactive prototyping.                         |
+| **Slack**                 | Internal communication and automated alerts for processes and deployments.   |
+| **Vercel & Render**       | Deployment and hosting of frontend and backend applications.                 |
+| **Google Cloud Platform** | Use of Firestore, Cloud Functions, and monitoring.                           |
+
+---
+
+## 📊 My GitHub Stats:
+
 <div align="center">
 
-![Marion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marionmbc&show_icons=true&theme=github_dark&count_private=true)
+![Marion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marionmbc\&show_icons=true\&theme=github_dark\&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionmbc&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionmbc\&layout=compact\&theme=github_dark)
 
 </div>
 
 ---
 
-## 🌎 Contribuciones y actividad:
+## 🌎 Contributions and Activity:
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=marionmbc&theme=github-dark-blue&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=marionmbc\&theme=github-dark-blue\&hide_border=false)
 
-![Marion's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marionmbc&bg_color=0d1117&color=4c9aff&line=4c9aff&point=ffffff&area=true&hide_border=false)
+![Marion's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marionmbc\&bg_color=0d1117\&color=4c9aff\&line=4c9aff\&point=ffffff\&area=true\&hide_border=false)
 
 </div>
 
 ---
 
-## 📫 ¡Conecta conmigo!
-- 📧 **Email:** melchisedec.bustamante@gmail.com  
-- 💼 **LinkedIn:** [Marion Bustamante](https://www.linkedin.com/in/melchisedec-bustamante/)  
-- 🌐 **Portafolio:** [www.marionmbc.me](https://www.marionmbc.me)  
+## 📫 Connect with Me!
+
+* 📧 **Email:** [melchisedec.bustamante@gmail.com](mailto:melchisedec.bustamante@gmail.com)
+* 💼 **LinkedIn:** [Marion Bustamante](https://www.linkedin.com/in/melchisedec-bustamante/)
+* 🌐 **Portfolio:** [www.marionmbc.me](https://www.marionmbc.me)
 
 ---
 
-> ⚡ *Gracias por visitar mi perfil. Siempre abierto a colaborar, crecer en equipo y asumir nuevos desafíos tecnológicos.*
-
+> ⚡ *Thank you for visiting my profile. I am always open to collaborating, growing as part of a team, and taking on new technological challenges.*
